@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Adii-45">
+                    <img src="https://avatars.githubusercontent.com/u/90207171?v=4" width="100px;"
+                        alt="Aditya Kr. Nayak" />
+                    <br />
+                    <sub>
+                        <b>Syed Shuaib</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
