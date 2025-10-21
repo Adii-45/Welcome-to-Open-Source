@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Aditya Kr. Nayak" />
                     <br />
                     <sub>
-                        <b>Syed Shuaib</b>
+                        <b>Aditya Kumar Nayak</b>
                     </sub>
                 </a>
             </td>
